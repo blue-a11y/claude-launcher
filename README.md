@@ -2,8 +2,6 @@
 
 在不影响本地默认配置的情况下，为 Claude Code 切换多个供应商。
 
-![Claude Launcher](screenshot.png)
-
 ## 功能
 
 - **多供应商管理**：配置多个 Claude Code 供应商，每个都有独立的 Base URL、API Key、鉴权方式和模型。
